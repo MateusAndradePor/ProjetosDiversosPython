@@ -1,41 +1,8 @@
-# Jogo da Forca (Python)
+# Diversos Projetos Pequenos em Python
 
-Jogo da forca básico com interface gráfica, feito em Python com `tkinter`. 
-As palavras são carregadas a partir de um arquivo `.txt` externo.
----
+Este repositório contém pequenos projetos desenvolvidos em Python com foco em aprendizado, prática e demonstração de habilidades. Os projetos variam de jogos simples com interface gráfica até utilitários e scripts funcionais. Ideal para quem busca exemplos práticos de lógica, uso de bibliotecas e criação de interfaces com tkinter.
 
-## Funcionalidades
+## Projetos inclusos:
 
-- Interface gráfica simples e interativa
-- Palavras sorteadas aleatoriamente de um arquivo `.txt`
-- Mensagens de acerto, erro, vitória e derrota
-- Botão para reiniciar o jogo
-- Validação de letras repetidas e inválidas
-
----
-
-## Interface
-
-![screenshot](interface.png)
----
-
-## Requisitos
-
-- Python 3.x
-- `tkinter`
-
----
-
-## Execução
-
-### Clone o repositório
-
-```bash
-git clone #
-cd JogoForca
-
-python3 jogo_forca_main.py
-
-```
-
-
+### JogoForca
+Um jogo da forca básico com interface gráfica, palavras randomizadas e tratamento de erros.
