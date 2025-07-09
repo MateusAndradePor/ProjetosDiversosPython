@@ -31,8 +31,7 @@ As palavras são carregadas a partir de um arquivo `.txt` externo.
 ### Clone o repositório
 
 ```bash
-git clone #
-cd JogoForca
+git clone https://github.com/MateusAndradePor/ProjetosDiversosPython/tree/main/JogoForca
 
 python3 jogo_forca_main.py
 
