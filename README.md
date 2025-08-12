@@ -6,3 +6,10 @@ Este repositório contém pequenos projetos desenvolvidos em Python com foco em 
 
 ### JogoForca
 Um jogo da forca básico com interface gráfica, palavras randomizadas e tratamento de erros.
+[Veja este projeto](https://github.com/MateusAndradePor/ProjetosDiversosPython/tree/main/JogoForca)
+
+---
+
+### QR Code Generator
+Simples gerador de QR Code com opções de customização e salvamento de imagem. Aplicação leve e rápida para geração de QR Codes através de um texto ou URLs.
+[Veja este projeto](https://github.com/MateusAndradePor/ProjetosDiversosPython/tree/main/QRCodeGenerator)
