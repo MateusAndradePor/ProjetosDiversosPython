@@ -47,7 +47,7 @@ class QRGeneratorApp:
         self.btn_save = ttk.Button(btn_frame, text="Salvar imagem", command=self.salvar_imagem, state="disabled")
         self.btn_save.grid(column=1, row=0)
 
-        # ----- Área de preview -----
+        # Área de preview
         preview_frame = ttk.LabelFrame(master, text="Preview", padding=8)
         preview_frame.pack(fill="both", expand=True, padx=8, pady=(0, 8))
 
