@@ -10,6 +10,7 @@ def carregar_palavras():
         print("Arquivo 'palavras.txt' não encontrado.")
         return ["janela"]  # palavra padrão
 
+# Parâmetros principais
 class JogoForca:
     # Definição da interface e campos do jogo:
     def __init__(self, master):
